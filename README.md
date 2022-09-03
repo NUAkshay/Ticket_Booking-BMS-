@@ -1,4 +1,4 @@
-<<Ticket Booking Program For Movies, Sports, Events>>
+<<Ticket Booking Program For Movies, Sports, Events>> 🎫 </p>
 
 In  this Project user can select their preferences from the given Menu - Movies, Sports, Events..
 
