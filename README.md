@@ -4,7 +4,8 @@ In  this Project user can select their preferences from the given Menu - Movies,
 
 After selecting their preferred menu they can move on with ticket bookings.
 
-Tech Stack:
-> Python
+Tech Stack ⚙️
+
+    ✓ Python
 
 
